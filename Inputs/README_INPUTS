@@ -1,0 +1,9 @@
+The F3 Seismic seismic and test horizons can be downloaded here:
+https://www.opendtect.org/osr/Main/NetherlandsOffshoreF3BlockComplete4GB
+
+We used two sets of horizons for testing:
+  Top: \F3_Demo_2016_training_v6\Rawdata\Surface_data\F3-Horizon-FS8.xyt
+  Base: \F3_Demo_2016_training_v6\Rawdata\Surface_data\F3-Horizon-MFS4.xyt
+
+  Top: \F3_Demo_2016_training_v6\Rawdata\Surface_data\F3-Horizon-Truncation.xyt
+  Base: \F3_Demo_2016_training_v6\Rawdata\Surface_data\F3-Horizon-Top-Foresets.xyt
