@@ -1,5 +1,8 @@
 # A-Channels-Runs-Through-It
-Workflow that takes seismic horizons and generates a labeled seismic volume to be used for deep learning techniques.
+
+This workflow takes two seismic horizons and generates a labeled seismic volume to be used for deep learning techniques.
+
+It was created by Graham Brew, Nam Pham, and Nathan Suurmeyer at the 2018 Subsurface Hackathon hosted by Agile Scientific.
 
 The solution takes in two surfaces (i.e. top_channel, base_channel) and the extent of the original seismic volume and outputs an array in the same shape of the seismic survey with 1's between the two surfaces and 0's everywhere else.
 
