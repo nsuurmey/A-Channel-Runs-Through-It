@@ -13,4 +13,4 @@ Next Steps: More export formats for different deep learning techniques, multiple
 Thank you to Evan Bianco, Diego Castañeda, and the Open Seismic Repository.
 https://www.opendtect.org/osr/
 
-![alt text](https://github.com/nsuurmey/A-Channel-Runs-Through-It/blob/images-results/Seismic_with_geobody_array.PNG)
+![alt text](https://github.com/nsuurmey/A-Channel-Runs-Through-It/blob/master/images-results/Seismic_with_geobody_array.PNG)
