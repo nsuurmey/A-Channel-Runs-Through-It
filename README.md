@@ -9,3 +9,5 @@ The workflow needs two surfaces (i.e. top_channel, base_channel) and the extent 
 We hope that this workflow can be used to help progress deep learning seismic solutions by converting real interpretations into training datasets.
 
 Next Steps: More export formats for different deep learning formats, multiple horizons.
+
+![alt text](https://github.com/nsuurmey/A-Channel-Runs-Through-It/blob/master/Seismic_with_geobody_array.PNG)
