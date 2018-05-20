@@ -1,4 +1,4 @@
-# A-Channels-Runs-Through-It
+# A-Channel-Runs-Through-It
 
 Summary: This workflow takes two horizons and generates a labeled seismic volume to be used for deep learning techniques.
 
