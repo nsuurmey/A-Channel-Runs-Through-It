@@ -10,4 +10,7 @@ We hope that this workflow can be used to help progress deep learning seismic so
 
 Next Steps: More export formats for different deep learning formats, multiple horizons.
 
+Thank you to Evan Bianco, Diego Castañeda, and the Open Seismic Repository.
+https://www.opendtect.org/osr/
+
 ![alt text](https://github.com/nsuurmey/A-Channel-Runs-Through-It/blob/master/Seismic_with_geobody_array.PNG)
